@@ -1,0 +1,6 @@
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\bin\Debug\RPGgame-ManuelHerlein.exe.config
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\bin\Debug\RPGgame-ManuelHerlein.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\bin\Debug\RPGgame-ManuelHerlein.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\obj\Debug\RPGgame-ManuelHerlein.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\obj\Debug\RPGgame-ManuelHerlein.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\RPGgame-ManuelHerlein\RPGgame-ManuelHerlein\obj\Debug\RPGgame-ManuelHerlein.pdb
